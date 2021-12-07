@@ -1,6 +1,6 @@
-# "you were always a girl"
+# ywaag
 
-(or "you were always a guy" if that fits better)
+"you were always a girl" (or "you were always a guy" if that fits better)
 
 This is a tool for retroactively replacing an old name in git commits.
 
